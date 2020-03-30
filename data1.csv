@@ -1,0 +1,501 @@
+﻿Reason;Gender;Age;Mobility;Distance;Participation
+Hospital readmission;M;61;No car;69;0
+Hospital readmission;M;86;Car;86;0
+Hospital readmission;F;65;No car;46;1
+Hospital readmission;F;73;No car;40;0
+Hospital readmission;M;93;No car;73;0
+Hospital readmission;F;52;Car;34;1
+Hospital readmission;F;42;Car;26;1
+Hospital readmission;M;57;Car;37;1
+Hospital readmission;M;78;No car;66;0
+Hospital readmission;F;78;Car;60;1
+Hospital readmission;M;66;No car;69;0
+Hospital readmission;F;51;Car;33;1
+Hospital readmission;F;75;Car;56;1
+Hospital readmission;F;60;Car;39;1
+Hospital readmission;M;62;No car;63;0
+Hospital readmission;F;81;No car;45;0
+Hospital readmission;F;79;Car;84;0
+Hospital readmission;M;54;Car;35;1
+Hospital readmission;F;70;No car;51;1
+Hospital readmission;F;67;Car;48;1
+Hospital readmission;F;62;No car;50;0
+Hospital readmission;M;65;Car;23;0
+Hospital readmission;F;84;Car;80;0
+Hospital readmission;F;43;Car;27;1
+Hospital readmission;M;73;Car;53;1
+Hospital readmission;M;81;No car;55;0
+Hospital readmission;M;73;No car;50;0
+Hospital readmission;M;76;No car;106;0
+Hospital readmission;M;71;No car;52;1
+Hospital readmission;M;68;Car;64;0
+Hospital readmission;M;60;Car;39;1
+Hospital readmission;F;69;No car;52;0
+Hospital readmission;M;63;No car;64;0
+Hospital readmission;F;44;Car;27;1
+Hospital readmission;F;64;Car;45;1
+Hospital readmission;F;71;No car;52;1
+Hospital readmission;M;52;No car;58;0
+Hospital readmission;M;89;Car;80;0
+Hospital readmission;F;46;Car;13;1
+Hospital readmission;M;77;Car;58;1
+Hospital readmission;F;59;No car;26;0
+Hospital readmission;M;63;Car;20;1
+Other obligations;M;82;No car;44;0
+Other obligations;M;71;No car;61;0
+Other obligations;F;50;Car;88;0
+Other obligations;F;64;Car;44;1
+Other obligations;M;41;Car;25;1
+Other obligations;M;75;Car;59;0
+Other obligations;M;66;Car;63;0
+Other obligations;F;55;Car;35;1
+Other obligations;M;46;No car;28;1
+Other obligations;M;49;Car;33;1
+Other obligations;F;83;Car;77;0
+Other obligations;M;44;Car;27;1
+Other obligations;F;75;No car;64;0
+Other obligations;M;57;Car;37;1
+Other obligations;F;56;Car;21;1
+Other obligations;F;42;Car;26;1
+Other obligations;F;70;Car;50;1
+Other obligations;F;79;No car;75;0
+Other obligations;M;63;No car;43;0
+Other obligations;M;75;No car;24;0
+Other obligations;F;47;Car;30;1
+Other obligations;M;68;No car;12;0
+Other obligations;F;71;No car;52;1
+Other obligations;F;81;Car;62;1
+Other obligations;M;50;No car;56;0
+Other obligations;F;55;No car;25;0
+Resumed work;F;64;Car;46;1
+Resumed work;M;59;No car;73;0
+Resumed work;F;67;Car;49;1
+Resumed work;F;74;Car;77;0
+Resumed work;M;83;No car;62;0
+Resumed work;M;88;Car;61;0
+Resumed work;F;56;Car;17;1
+Resumed work;F;64;No car;44;1
+Resumed work;M;85;Car;65;1
+Resumed work;M;61;No car;40;1
+Resumed work;M;69;Car;72;0
+Resumed work;F;59;No car;50;0
+Resumed work;M;57;Car;37;1
+Resumed work;F;89;No car;18;0
+Resumed work;M;71;No car;71;0
+Resumed work;M;64;No car;51;0
+Resumed work;F;77;No car;58;1
+Resumed work;M;56;Car;23;1
+Resumed work;F;60;No car;68;0
+Resumed work;F;68;Car;42;0
+Resumed work;F;64;Car;45;1
+Resumed work;F;77;Car;90;0
+Resumed work;M;77;No car;43;0
+Resumed work;M;39;Car;24;1
+Resumed work;F;55;Car;35;1
+Resumed work;M;68;Car;24;1
+Medical reasons;F;83;Car;94;0
+Medical reasons;M;85;Car;66;1
+Medical reasons;F;49;No car;58;0
+Medical reasons;M;84;Car;42;1
+Medical reasons;M;75;No car;74;0
+Medical reasons;M;42;No car;26;1
+Medical reasons;F;62;Car;60;0
+Medical reasons;M;72;Car;53;1
+Medical reasons;M;46;No car;49;0
+Medical reasons;M;67;No car;80;0
+Medical reasons;F;66;Car;23;1
+Medical reasons;F;64;No car;31;0
+Medical reasons;M;73;Car;54;1
+Medical reasons;F;64;Car;51;0
+Medical reasons;F;58;Car;75;0
+Medical reasons;M;53;No car;52;0
+Medical reasons;F;62;Car;42;1
+Medical reasons;F;73;Car;53;1
+Medical reasons;M;66;No car;13;0
+Own facilities;M;66;No car;23;1
+Own facilities;M;64;No car;64;0
+Own facilities;M;67;No car;41;0
+Own facilities;F;68;Car;64;0
+Own facilities;F;70;No car;47;0
+Own facilities;M;49;Car;101;0
+Own facilities;M;83;Car;64;1
+Own facilities;F;60;Car;73;0
+Own facilities;M;52;No car;34;1
+Own facilities;M;47;No car;30;1
+Own facilities;F;51;No car;28;0
+Own facilities;M;77;No car;46;0
+Own facilities;M;68;Car;78;0
+Lost interest;F;65;No car;59;0
+Lost interest;F;46;No car;28;1
+Lost interest;F;75;Car;92;0
+Lost interest;M;52;Car;34;1
+Lost interest;F;83;No car;64;1
+Lost interest;M;60;Car;39;1
+Lost interest;M;77;No car;57;1
+Disliked therapist;M;67;No car;47;1
+Disliked therapist;F;74;Car;82;0
+Disliked therapist;M;84;No car;61;0
+Disliked therapist;M;43;No car;26;1
+Disliked therapist;M;66;Car;47;0
+Disliked therapist;F;54;Car;63;0
+Forgot;M;63;No car;43;1
+Forgot;F;91;No car;22;0
+Forgot;M;77;No car;46;0
+Forgot;M;72;Car;78;0
+Forgot;F;57;No car;61;0
+Moved;M;66;No car;47;1
+Moved;F;70;Car;84;0
+Moved;F;81;Car;80;0
+Moved;F;81;No car;46;0
+Moved;M;65;No car;36;0
+Moved;M;49;Car;55;0
+Other program;M;71;Car;68;0
+Other program;F;58;Car;38;1
+Other program;F;68;Car;89;0
+Disliked therapist;F;71;Car;86;0
+Moved;F;68;No car;33;0
+Forgot;M;78;Car;79;0
+;M;69;No car;55;0
+;F;57;No car;37;1
+;F;47;Car;29;1
+;F;48;Car;30;1
+;M;74;Car;76;0
+;M;65;No car;52;0
+;F;67;Car;48;1
+;M;50;No car;65;0
+;M;64;No car;36;0
+;M;79;Car;61;1
+;M;50;Car;33;1
+;F;40;Car;25;1
+;F;61;No car;52;0
+;M;56;Car;36;1
+;F;70;Car;50;1
+;M;66;Car;22;1
+;F;51;No car;73;0
+;M;73;No car;74;0
+;F;64;No car;21;1
+;M;67;No car;39;0
+;F;49;No car;32;1
+;M;65;No car;62;0
+;M;81;No car;61;1
+;F;54;No car;11;0
+;M;72;No car;54;0
+;F;75;No car;33;0
+;F;68;Car;96;0
+;M;64;No car;49;0
+;M;54;Car;35;1
+;F;39;Car;24;1
+;F;47;Car;29;1
+;M;65;No car;65;0
+;F;56;Car;37;1
+;M;63;No car;72;0
+;M;88;Car;68;1
+;F;88;No car;46;0
+;M;77;No car;19;0
+;F;59;No car;53;0
+;F;55;Car;35;1
+;M;64;Car;44;1
+;M;72;Car;87;0
+;M;78;No car;74;0
+;F;60;Car;39;1
+;F;52;Car;34;1
+;F;56;Car;91;0
+;F;77;Car;48;0
+;M;58;Car;19;1
+;M;54;No car;21;1
+;F;57;Car;24;1
+;F;67;Car;48;1
+;F;72;No car;52;1
+;M;75;No car;72;0
+;F;72;No car;65;0
+;M;58;No car;52;0
+;F;77;No car;57;0
+;M;50;No car;28;0
+;M;51;Car;54;0
+;F;65;Car;47;1
+;M;61;Car;68;0
+;M;53;Car;34;1
+;M;51;Car;33;1
+;F;45;No car;56;0
+;F;55;No car;35;1
+;M;64;No car;70;0
+;F;67;No car;61;0
+;F;59;No car;72;0
+;M;75;No car;86;0
+;M;49;No car;56;0
+;M;61;Car;79;0
+;F;79;No car;47;0
+;M;62;No car;43;1
+;M;56;Car;24;1
+;F;58;No car;38;1
+;F;73;Car;44;0
+;F;62;Car;52;0
+;F;88;No car;35;0
+;M;57;Car;37;1
+;M;62;Car;42;1
+;M;85;No car;50;0
+;F;58;Car;18;1
+;F;64;Car;45;1
+;F;71;No car;67;0
+;M;74;No car;53;1
+;M;63;Car;102;0
+;F;93;No car;25;0
+;M;66;No car;50;0
+;M;72;No car;24;0
+;F;77;No car;57;0
+;M;69;No car;61;0
+;M;72;Car;65;0
+;M;75;Car;76;0
+;M;55;Car;69;0
+;M;71;No car;71;0
+;F;64;No car;21;0
+;M;61;No car;40;1
+;F;63;No car;95;0
+;F;41;Car;25;1
+;F;66;No car;63;0
+;M;72;No car;83;0
+;F;91;No car;20;0
+;M;75;No car;82;0
+;M;51;No car;33;1
+;M;78;Car;78;0
+;F;64;No car;47;0
+;M;78;No car;86;0
+;M;69;Car;49;1
+;F;74;Car;92;0
+;F;68;No car;49;1
+;M;81;No car;31;1
+;F;45;Car;27;1
+;M;64;No car;44;1
+;F;80;No car;68;0
+;F;80;No car;86;0
+;F;70;No car;63;0
+;F;86;No car;63;0
+;M;59;No car;40;0
+;M;43;Car;27;1
+;M;60;No car;69;0
+;M;76;Car;93;0
+;M;63;No car;64;0
+;M;75;No car;15;0
+;M;96;No car;70;0
+;F;40;Car;25;1
+;F;46;Car;80;0
+;M;64;No car;61;0
+;M;40;No car;24;1
+;M;75;No car;60;0
+;M;60;No car;25;0
+;M;73;No car;29;1
+;F;83;Car;29;0
+;M;83;Car;62;1
+;F;57;Car;58;0
+;M;67;No car;48;1
+;M;81;Car;41;0
+;M;49;No car;58;0
+;M;59;Car;92;0
+;M;45;No car;27;1
+;F;63;No car;44;1
+;M;51;No car;68;0
+;M;78;No car;38;0
+;M;53;Car;86;0
+;F;62;No car;37;0
+;M;79;Car;60;1
+;M;70;No car;51;1
+;F;42;No car;26;1
+;F;49;No car;32;1
+;M;54;Car;62;0
+;F;71;No car;72;0
+;M;45;No car;28;1
+;M;73;No car;52;0
+;F;71;Car;52;1
+;F;50;Car;33;1
+;F;68;No car;97;0
+;M;68;No car;39;0
+;F;76;No car;27;0
+;F;49;Car;32;1
+;F;74;No car;46;0
+;F;66;No car;47;1
+;M;76;Car;77;0
+;F;74;No car;60;0
+;M;71;No car;68;0
+;F;62;Car;43;1
+;F;87;No car;49;0
+;F;76;No car;42;0
+;M;54;Car;35;1
+;M;68;No car;26;0
+;M;78;No car;58;1
+;M;67;No car;25;0
+;F;77;No car;76;0
+;M;53;No car;35;1
+;M;47;No car;29;1
+;M;65;No car;55;0
+;M;74;Car;54;0
+;M;65;No car;25;0
+;M;68;No car;74;0
+;M;79;No car;62;0
+;M;56;Car;37;1
+;F;85;Car;64;0
+;F;61;No car;65;0
+;F;80;No car;35;0
+;M;82;Car;90;0
+;M;71;No car;46;0
+;F;69;Car;49;1
+;M;70;Car;50;1
+;F;83;Car;85;0
+;M;66;Car;47;1
+;F;71;No car;60;0
+;F;46;Car;28;1
+;F;72;No car;52;1
+;M;64;Car;45;1
+;F;76;No car;3;0
+;M;80;No car;60;0
+;M;74;Car;53;1
+;M;64;Car;46;1
+;M;75;Car;56;1
+;M;53;Car;34;1
+;F;75;No car;56;1
+;M;68;No car;18;1
+;F;66;No car;47;1
+;F;48;Car;31;1
+;M;53;No car;34;1
+;F;74;No car;53;0
+;F;52;No car;33;1
+;M;82;No car;67;0
+;F;63;No car;43;1
+;M;81;Car;106;0
+;F;62;Car;42;1
+;M;63;Car;43;1
+;M;73;No car;67;0
+;M;70;Car;51;1
+;F;70;No car;34;0
+;M;57;Car;37;1
+;F;62;No car;42;1
+;F;76;No car;23;1
+;F;50;Car;33;1
+;F;71;No car;45;0
+;F;75;No car;40;0
+;F;66;No car;67;0
+;F;59;Car;39;1
+;M;59;No car;83;0
+;F;41;Car;25;1
+;F;45;Car;28;1
+;M;48;No car;31;1
+;M;64;No car;45;1
+;M;71;Car;43;0
+;F;82;Car;62;1
+;F;73;No car;39;0
+;F;68;No car;49;1
+;F;52;Car;34;1
+;F;59;No car;57;0
+;F;47;Car;29;1
+;M;56;Car;37;1
+;F;70;Car;50;1
+;F;55;Car;36;0
+;F;83;No car;41;0
+;M;73;Car;51;0
+;F;77;No car;78;0
+;M;54;Car;20;1
+;M;58;Car;24;1
+;M;63;No car;51;0
+;M;60;Car;40;1
+;M;69;No car;38;0
+;M;77;No car;41;0
+;F;78;Car;93;0
+;F;69;Car;51;0
+;M;57;No car;70;0
+;F;54;No car;84;0
+;M;63;No car;75;0
+;M;68;No car;49;1
+;M;79;No car;65;0
+;M;79;No car;31;0
+;F;50;Car;33;1
+;F;56;No car;42;0
+;M;64;Car;17;1
+;M;61;Car;20;1
+;F;74;No car;24;0
+;M;68;No car;57;0
+;F;88;No car;53;0
+;M;78;No car;70;0
+;M;70;No car;85;0
+;M;81;No car;61;0
+;M;74;Car;55;1
+;M;61;No car;39;0
+;M;60;No car;41;0
+;M;59;Car;15;1
+;F;55;Car;35;1
+;M;68;No car;49;1
+;M;75;Car;54;0
+;M;85;Car;66;1
+;F;70;Car;49;1
+;F;75;No car;60;0
+;M;61;No car;41;1
+;M;72;Car;17;0
+;M;56;No car;41;0
+;M;67;No car;48;1
+;F;57;Car;37;1
+;F;64;No car;42;0
+;F;43;No car;26;1
+;F;59;Car;38;1
+;M;62;No car;41;1
+;F;70;No car;41;0
+;F;62;No car;39;0
+;M;78;No car;94;0
+;M;66;No car;67;0
+;F;75;Car;56;1
+;F;67;Car;81;0
+;F;61;No car;64;0
+;F;71;No car;36;0
+;F;58;No car;26;0
+;M;60;Car;39;1
+;F;90;No car;75;0
+;M;72;Car;82;0
+;M;73;No car;32;0
+;M;83;Car;65;0
+;M;66;Car;47;1
+;F;74;Car;55;1
+;F;91;Car;68;1
+;F;63;No car;55;0
+;M;69;No car;36;0
+;F;58;No car;35;0
+;M;76;Car;43;0
+;F;65;No car;47;1
+;M;76;Car;69;0
+;F;54;No car;35;1
+;M;75;No car;56;0
+;M;57;No car;46;0
+;M;64;No car;77;0
+;F;61;No car;69;0
+;F;82;Car;36;0
+;M;49;No car;33;1
+;F;71;Car;76;0
+;M;63;Car;43;1
+;M;76;Car;57;1
+;M;86;Car;39;0
+;F;96;Car;24;0
+;M;49;No car;32;1
+;M;68;Car;81;0
+;F;61;No car;40;1
+;F;81;No car;82;0
+;F;62;Car;41;1
+;F;64;Car;44;1
+;M;55;Car;35;1
+;M;65;Car;47;1
+;F;65;Car;48;0
+;F;63;No car;61;0
+;F;83;No car;64;1
+;M;82;Car;35;0
+;F;71;No car;54;0
+;F;75;Car;56;1
+;F;56;Car;36;1
+;M;83;Car;63;1
+;M;52;Car;74;0
+;M;73;No car;71;0
+;M;49;Car;31;1
+;F;59;Car;38;1
+;M;81;No car;55;0
+;F;43;No car;27;1
+;F;82;No car;42;0
+;F;74;No car;47;0
+;M;75;Car;56;1
+;M;62;Car;42;1
+;M;57;No car;38;1
+;M;88;No car;25;0
+;M;74;Car;55;1
